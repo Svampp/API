@@ -1,0 +1,9 @@
+﻿@Harjoitus2_HostAddress = https://localhost:7050
+
+GET {{Harjoitus2_HostAddress}}/api/quest
+
+###
+
+GET {{Harjoitus2_HostAddress}}/api/quest/2
+
+###
