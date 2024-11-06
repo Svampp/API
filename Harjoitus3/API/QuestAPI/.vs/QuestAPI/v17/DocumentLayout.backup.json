@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|c:\\apidemot\\api\\harjoitus3\\questapi\\questapi\\questapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|solutionrelative:questapi\\questapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|c:\\apidemot\\api\\harjoitus3\\questapi\\questapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|solutionrelative:questapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|c:\\apidemot\\api\\harjoitus3\\questapi\\questapi\\questdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|solutionrelative:questapi\\questdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|c:\\apidemot\\api\\harjoitus3\\questapi\\questapi\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F373AEF-0513-45EE-90DE-7DF65EBDE534}|QuestAPI\\QuestAPI.csproj|solutionrelative:questapi\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestAPI.http",
+              "DocumentMoniker": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\QuestAPI.http",
+              "RelativeDocumentMoniker": "QuestAPI\\QuestAPI.http",
+              "ToolTip": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\QuestAPI.http",
+              "RelativeToolTip": "QuestAPI\\QuestAPI.http",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-06T12:48:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuestAPI\\Program.cs",
+              "ToolTip": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\Program.cs",
+              "RelativeToolTip": "QuestAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:44:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestDB.cs",
+              "DocumentMoniker": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\QuestDB.cs",
+              "RelativeDocumentMoniker": "QuestAPI\\QuestDB.cs",
+              "ToolTip": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\QuestDB.cs",
+              "RelativeToolTip": "QuestAPI\\QuestDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:44:10.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\Quest.cs",
+              "RelativeDocumentMoniker": "QuestAPI\\Quest.cs",
+              "ToolTip": "C:\\APIdemot\\API\\Harjoitus3\\QuestAPI\\QuestAPI\\Quest.cs",
+              "RelativeToolTip": "QuestAPI\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:43:12.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
